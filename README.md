@@ -160,3 +160,27 @@ The strongest indicators were the inconsistent sender and reply-to domains, urge
 This investigation demonstrates how email-header analysis, threat intelligence, and OSINT can be combined to assess a suspected phishing message. It also highlights the importance of corroborating multiple indicators rather than relying on a single reputation result.
 
 The investigation supports a phishing assessment, but further evidence would be required to confirm credential theft, account compromise, or a successful breach of Harmony Health.
+
+---
+
+## 10. Supporting Evidence
+
+### Phishing Email Sample
+
+![Phishing email](screenshots/Phish%20email.png)
+
+### Email Header Analysis
+
+![Email header analysis](screenshots/email%20header%20analysis.png)
+
+### AbuseIPDB IP Reputation
+
+![AbuseIPDB IP reputation summary](screenshots/AbuseIPDB%20analysis%201.png)
+
+### AbuseIPDB Recent Reports
+
+![AbuseIPDB recent reports](screenshots/AbuseIPDB%20analysis2.png)
+
+### MXToolbox Authentication Results
+
+![MXToolbox results](screenshots/MXtoolbox%20results.png)
